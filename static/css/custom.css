@@ -1,3 +1,28 @@
+/*Changing Bold, Italic, Highlight Text */
+
+  .dark-theme b,
+  .dark-theme strong{
+    color: #FB4934
+  }
+  .dark-theme i {
+    color: #DE9A2E;
+  }
+
+  .white-theme b,
+  .white-theme strong{
+    color: #FB4934
+  }
+  .white-theme i {
+    color: #DE9A2E;
+  }
+
+  .dark-theme mark {
+  }
+
+  .white-theme mark {
+  }
+
+
 /*Changing tags to have a blue button appearance and be nice and rounded */
 
     .tag{ padding:0 7px; border-radius:7px; margin:2px 0; color:black !important; background-color:#28df99}.content
